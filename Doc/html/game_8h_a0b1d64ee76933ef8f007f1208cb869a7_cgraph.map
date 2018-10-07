@@ -1,0 +1,18 @@
+<map id="ppal" name="ppal">
+<area shape="rect" id="node2" href="$params_8h.html#aa098c067e99e5d0c4b5671d86b96b2d2" title="Initialize the set of parameters from scratch. " alt="" coords="126,5,195,32"/>
+<area shape="rect" id="node3" href="$params_8h.html#ad6b4e6d05c2d284e72ed8238be1d25c1" title="Load the set of parameters from a YAML file. " alt="" coords="121,56,200,83"/>
+<area shape="rect" id="node4" href="$gridmanagement_8h.html#a5769001c1ac168805080650b28d297f8" title="Initialize the grid according to the size. " alt="" coords="330,77,385,104"/>
+<area shape="rect" id="node5" href="$gridmanagement_8h.html#a65e7ff1b45636b2cc2d2eb0430013ff3" title="Display the grid according to the parameters. " alt="" coords="124,157,197,184"/>
+<area shape="rect" id="node11" href="$game_8h.html#aa2310e9ab250ce7576dd0e378ca0dd35" title="Display the menu according to the set of parameters. " alt="" coords="137,208,184,235"/>
+<area shape="rect" id="node12" href="$game_8h.html#a38d8b6abecddf010d19255f48631a245" title="Swap the token from its inital place to its final destination. " alt="" coords="122,259,199,285"/>
+<area shape="rect" id="node13" href="$game_8h.html#af44f38ae028fa0a37a40badb0c413518" title="Chek if there is at least 3 token in the same column. " alt="" coords="95,309,227,336"/>
+<area shape="rect" id="node14" href="$game_8h.html#ad2272cb3477a9e2cbb6cf05c094b43a7" title="Remove &quot;Howmany&quot; same tokens starting from &quot;Pos&quot;. " alt="" coords="305,421,409,448"/>
+<area shape="rect" id="node15" href="$game_8h.html#a3af37b4dab3f8f95f0af88873c70492b" title="Computer the score. " alt="" coords="116,411,205,437"/>
+<area shape="rect" id="node16" href="$game_8h.html#ac41d8a7dab5763ab0748746e4f1a4180" title="Chek if there is at least 3 token in the same row. " alt="" coords="102,461,219,488"/>
+<area shape="rect" id="node17" href="$game_8h.html#aec867a38d77cd9fb6fe3126d74821ad9" title="Remove &quot;Howmany&quot; same tokens starting from &quot;Pos&quot;. " alt="" coords="116,512,205,539"/>
+<area shape="rect" id="node6" href="$gridmanagement_8h.html#a6a3ca153f0817e8ba91a023b886bb662" title="Clear the current terminal. " alt="" coords="488,191,565,217"/>
+<area shape="rect" id="node8" href="$gridmanagement_8h.html#a2ff56848c709d7abd84f2a29b2541ede" title="Display the grid showing the line and the column numbers. Everything is colored according to the set ..." alt="" coords="275,245,440,286"/>
+<area shape="rect" id="node9" href="$gridmanagement_8h.html#a5d74c4e071aab5b976217ab7d0fa68dc" title="Display the grid showing the line and the column numbers. " alt="" coords="275,179,440,221"/>
+<area shape="rect" id="node10" href="$nsutil_8h.html#a1006477af40c308be19d4f4ce5f31e9a" title="Return a random number between 1 and KNbCandies. " alt="" coords="335,311,380,337"/>
+<area shape="rect" id="node7" href="$gridmanagement_8h.html#a7f0df05a97c053bfa8a3e5863b0a0e80" title="Set the color of the future input in the terminal. " alt="" coords="613,220,659,247"/>
+</map>
